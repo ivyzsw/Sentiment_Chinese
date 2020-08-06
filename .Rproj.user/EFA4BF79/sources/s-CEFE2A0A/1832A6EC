@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1596678231991.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "1832A6EC",
+    "lastKnownWriteTime" : 1595788991,
+    "last_content_update" : 1595788991,
+    "path" : "~/Documents/R/Sentiment_Chinese/R/function.R",
+    "project_path" : "R/function.R",
+    "properties" : {
+        "cursorPosition" : "58,24",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

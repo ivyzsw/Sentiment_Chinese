@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1596596227080.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "9DA70729",
+    "lastKnownWriteTime" : 1595132725,
+    "last_content_update" : 1595132725,
+    "path" : "~/Documents/R/Sentiment_Chinese/Press_Text/2016_10_12.txt",
+    "project_path" : "Press_Text/2016_10_12.txt",
+    "properties" : {
+        "cursorPosition" : "2,91",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}
